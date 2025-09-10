@@ -50,7 +50,7 @@ pom.xml, README.md
 ---
 
 <details>
-<summary><strong>📝 API Endpoints</strong></summary>
+<summary><strong> API Endpoints</strong></summary>
 
 | Method | Endpoint          | Description               | Request Body Example                 |
 |--------|-----------------|---------------------------|------------------------------------|
@@ -85,7 +85,7 @@ pom.xml, README.md
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone <https://github.com/MunagavalasaSaivamsi/Expense_Management>
 cd expense-management
 
 
